@@ -1,0 +1,9 @@
+.idea
+/logs/
+/*/target/
+/item-service/src/main/resources/application-local.yaml
+/hm-service/src/main/resources/application-local.yaml
+/hmall-nginx/
+/*/temp/
+/*/src/test/
+/hm-common/target/
