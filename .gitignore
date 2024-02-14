@@ -11,3 +11,4 @@
 /user-service/src/main/resources/application-local.yaml
 *.iml
 /trade-service/src/main/resources/application-local.yaml
+/pay-service/src/main/resources/application-local.yaml
