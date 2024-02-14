@@ -10,3 +10,4 @@
 /cart-service/src/main/resources/application-local.yaml
 /user-service/src/main/resources/application-local.yaml
 *.iml
+/trade-service/src/main/resources/application-local.yaml
