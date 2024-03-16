@@ -12,3 +12,4 @@
 *.iml
 /trade-service/src/main/resources/application-local.yaml
 /pay-service/src/main/resources/application-local.yaml
+/item-service/src/main/resources/bootstrap.yaml
